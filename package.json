@@ -1,7 +1,7 @@
 {
   "name": "react-music-remake",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@commitlint/cli": "^16.0.1",
     "@commitlint/config-conventional": "^16.0.0",
